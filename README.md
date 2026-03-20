@@ -1,2 +1,3 @@
-# advanced-recipe-manager-5d1k
-Automated issue comment bot repository
+# Advanced Recipe Manager 5D1K
+
+Automated issue comment bot repository.
